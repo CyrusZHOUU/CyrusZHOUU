@@ -15,8 +15,10 @@
 - ✍️ &nbsp; Working on projects that leverage AI to solve complex engineering and scientific challenges.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CyrusZHOUU&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrusZHOUU&layout=compact&langs_count=6" />
+  <a href="https://github.com/CyrusZHOUU">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CyrusZHOUU&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrusZHOUU&layout=compact&langs_count=6" />
+  </a>
 </div>
 
 ## 🛠️ Tech Stack
@@ -45,8 +47,8 @@
 ## 🌱 To Learn
 
 ### Advanced AI & LLM Development
-![RAG](https://img.shields.io/badge/-RAG-9146FF?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAilBMVEX///8AAADMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMz///8isVB0AAAALHRSTlMAAABFts7e0KtJBkTz/vFBRvb0+kMmMPDu8jMpN+zq7i0sKyvl4+ciIeDe3CMxRToAAAABYktHRACIBR1IAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH5wgQFB0IXuUYJAAAAFpJREFUCNdjYGBkggNGBmQeiM+EAjCzmVlYWdnYORi5uHl4+fgFBIWEGUVExcQlJKWkZWTl5BUUlZRVVNXUNTS1tHV09fQNDI2MTUzNzC0sraxtbO3sHRydnAGvUwUz951CpgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMy0wOC0xNlQyMDoyOTowOCswMDowMMTUJXEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjMtMDgtMTZUMjA6Mjk6MDgrMDA6MDC1iZ3NAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDIzLTA4LTE2VDIwOjI5OjA4KzAwOjAwwoyd8gAAAABJRU5ErkJggg==&logoColor=white)
-![Multi-Agent](https://img.shields.io/badge/-Multi--Agent-FF5A5F?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAn1BMVEX///8AAADMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMz///+OQ8NZAAAANHRSTlMAAABGt9Df0axKB0X0/vJCR/f1+0QnMfHv8zQqOO3r7y4tLCzm5OgjIuHf3iQyRjs8f7PQhAAAAAFiS0dEAIgFHUgAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAHdElNRQfnCBAUHRxBN3yRAAAAYUlEQVQI12NgYGRigAEmBhQeiM+MAjBzWFjZ2Dk4Gbh4ePn4BQSFhEVExcQlGCSlpGVk5eQVFJWUVVTV1BkYNDS1tHV09fQNDI2MTUzNGMwtLK2sbWzt7B0cnZxdXN0AuIsFPOYTP7kAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMDgtMTZUMjA6Mjk6MjgrMDA6MDDmnY1TAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTA4LTE2VDIwOjI5OjI4KzAwOjAwl8A17wAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyMy0wOC0xNlQyMDoyOToyOCswMDowMMDVFTAAAAAASUVORK5CYII=&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-9146FF?style=flat-square&logo=openai&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/-Multi--Agent-FF5A5F?style=flat-square&logo=googleassistant&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-0EA5E9?style=flat-square&logo=openai&logoColor=white)
 ![Fine-tuning](https://img.shields.io/badge/-Fine--tuning-8B5CF6?style=flat-square&logo=openai&logoColor=white)
 
