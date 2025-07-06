@@ -1,72 +1,55 @@
-![Cyrus Zhou's Profile Banner](profile-banner.svg)
+### Hi there 👋<h2> I'm Cyrus Zhou</h2>
 
-## 👨‍💻 About Me
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="my">
 
-Senior Software Engineer focused on building high-quality, scalable software solutions. Experienced in full-stack development with a passion for technical innovation and best practices.
+<h3> 👨🏻•💻 About Me </h3>
 
-## 🛠️ Tech Stack
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+- 🎓 &nbsp; Senior Software Engineer focused on building high-quality, scalable software solutions.
 
-### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design and AI.
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<h3>🛠 Tech Stack</h3>
 
-### Development Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+- 💻 &nbsp; Python | Java | JavaScript | TypeScript | C++
+- 🌐 &nbsp; HTML | CSS | React | Vue.js | Angular | Bootstrap
+- 🛢 &nbsp; MySQL | MongoDB | PostgreSQL | Redis
+- 🔧 &nbsp; Git | Docker | Node.js | Express | Spring Boot
 
-## 📊 GitHub Stats
+<!--
+- 🖥 &nbsp; Illustrator | Photoshop | InDesign
+-->
 
-![Cyrus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyrusZHOU&show_icons=true&theme=radical)
+<h3>🛠 To Learn</h3>
 
-## 🏆 Project Experience
+- 🔧 &nbsp; AWS | Kubernetes | Firebase | GraphQL
+<hr>
 
-### Enterprise E-Commerce Platform
-- Designed and implemented high-performance microservices architecture
-- Optimized system performance, improving response times by 50%
-- Implemented automated deployment processes, reducing deployment time by 90%
+[![Cyrus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyrusZHOUU&show_icons=true)](https://github.com/CyrusZHOUU)
 
-### Intelligent Data Analysis System
-- Developed real-time data processing pipeline handling over 500GB of data daily
-- Designed intuitive data visualization dashboards
-- Implemented machine learning models to improve prediction accuracy
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyrusZHOUU&show_icons=true)
 
-### Mobile Application Development
-- Led development of cross-platform mobile applications
-- Implemented offline-first data synchronization strategies
-- Optimized application performance and user experience
+<hr>
+<h3> 🤝🏻 Connect with Me </h3>
 
-## 📫 Contact Me
+<br>
 
-- Email: cyrus.zhou@example.com
-- LinkedIn: [Cyrus Zhou](https://www.linkedin.com/in/cyruszhou/)
-- Website: [cyruszhou.dev](https://www.cyruszhou.dev)
+<p align="center">
 
-## 🌱 Continuous Learning
+<a href="https://cyruszhou.dev"><img alt="Website" src="https://img.shields.io/badge/cyruszhou.dev-black?style=flat-square&logo=google-chrome"></a>
 
-Currently diving deeper into cloud-native technologies, artificial intelligence, and big data analytics, committed to applying these technologies to real-world business scenarios.
+<a href="https://www.linkedin.com/in/cyruszhou/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cyrus%20Zhou-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="https://github.com/CyrusZHOUU"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-CyrusZHOUU-black?style=flat-square&logo=github"></a>
+
+<a href="mailto:cyrus.zhou@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-cyrus.zhou@example.com-blue?style=flat-square&logo=gmail"></a>
+
+</p>
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=CyrusZHOUU.CyrusZHOUU)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 ---
 
