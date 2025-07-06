@@ -1,75 +1,68 @@
 ### Hi there 👋<h2> I'm Cyrus Zhou</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="my">
+<img align='right' src="https://raw.githubusercontent.com/CyrusZHOUU/CyrusZHOUU/main/assets/ai-brain.gif" width="230" alt="AI Brain Animation">
 
 <h3> 👨🏻•💻 About Me </h3>
 
 - 🎓 &nbsp; Engineering student with a passion for technology and scientific innovation.
 
-- 🔬 &nbsp; Focused on AI for Science (AI4S) and Science for AI (Science4AI) research areas.
+- 🔬 &nbsp; Focused on Large Language Models (LLMs), AI Agents, and AI for Science (AI4S) research areas.
 
-- 🤔 &nbsp; Exploring the intersection of machine learning, scientific computing, and engineering applications.
+- 🤖 &nbsp; Experienced in developing and optimizing AI agents and LLM applications with practical implementations.
 
-- 🌱 &nbsp; Currently learning about materials science modeling, quantum computing, and molecular dynamics simulation.
+- 🌱 &nbsp; Currently exploring advanced prompt engineering, multi-agent systems, and scientific applications of AI.
 
-- ✍️ &nbsp; Working on projects that bridge the gap between scientific research and practical engineering solutions.
+- ✍️ &nbsp; Working on projects that leverage AI to solve complex engineering and scientific challenges.
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CyrusZHOUU&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrusZHOUU&layout=compact&langs_count=6" />
+</div>
 
 ## 🛠️ Tech Stack
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-### Scientific Computing
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+### AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFBA01?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-32CD32?style=flat-square&logo=chainlink&logoColor=white)
 
 ### Web Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 🌱 To Learn
 
-### AI & Scientific Computing
-![JAX](https://img.shields.io/badge/-JAX-0A66C2?style=flat-square&logo=google&logoColor=white)
-![Quantum Computing](https://img.shields.io/badge/-Quantum%20Computing-6929C4?style=flat-square&logo=qiskit&logoColor=white)
-![Molecular Dynamics](https://img.shields.io/badge/-Molecular%20Dynamics-43853D?style=flat-square&logo=moleculer&logoColor=white)
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-<hr>
-
-[![Cyrus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyrusZHOUU&show_icons=true)](https://github.com/CyrusZHOUU)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyrusZHOUU&show_icons=true)
+### Advanced AI & LLM Development
+![RAG](https://img.shields.io/badge/-RAG-9146FF?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAilBMVEX///8AAADMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMz///8isVB0AAAALHRSTlMAAABFts7e0KtJBkTz/vFBRvb0+kMmMPDu8jMpN+zq7i0sKyvl4+ciIeDe3CMxRToAAAABYktHRACIBR1IAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH5wgQFB0IXuUYJAAAAFpJREFUCNdjYGBkggNGBmQeiM+EAjCzmVlYWdnYORi5uHl4+fgFBIWEGUVExcQlJKWkZWTl5BUUlZRVVNXUNTS1tHV09fQNDI2MTUzNzC0sraxtbO3sHRydnAGvUwUz951CpgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMy0wOC0xNlQyMDoyOTowOCswMDowMMTUJXEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjMtMDgtMTZUMjA6Mjk6MDgrMDA6MDC1iZ3NAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDIzLTA4LTE2VDIwOjI5OjA4KzAwOjAwwoyd8gAAAABJRU5ErkJggg==&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/-Multi--Agent-FF5A5F?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAn1BMVEX///8AAADMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMz///+OQ8NZAAAANHRSTlMAAABGt9Df0axKB0X0/vJCR/f1+0QnMfHv8zQqOO3r7y4tLCzm5OgjIuHf3iQyRjs8f7PQhAAAAAFiS0dEAIgFHUgAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAHdElNRQfnCBAUHRxBN3yRAAAAYUlEQVQI12NgYGRigAEmBhQeiM+MAjBzWFjZ2Dk4Gbh4ePn4BQSFhEVExcQlGCSlpGVk5eQVFJWUVVTV1BkYNDS1tHV09fQNDI2MTUzNGMwtLK2sbWzt7B0cnZxdXN0AuIsFPOYTP7kAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMDgtMTZUMjA6Mjk6MjgrMDA6MDDmnY1TAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTA4LTE2VDIwOjI5OjI4KzAwOjAwl8A17wAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyMy0wOC0xNlQyMDoyOToyOCswMDowMMDVFTAAAAAASUVORK5CYII=&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-0EA5E9?style=flat-square&logo=openai&logoColor=white)
+![Fine-tuning](https://img.shields.io/badge/-Fine--tuning-8B5CF6?style=flat-square&logo=openai&logoColor=white)
 
 <hr>
+
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
 
 <p align="center">
 
-<a href="https://cyruszhou.dev"><img alt="Website" src="https://img.shields.io/badge/cyruszhou.dev-black?style=flat-square&logo=google-chrome"></a>
-
-<a href="https://www.linkedin.com/in/cyruszhou/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cyrus%20Zhou-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://github.com/CyrusZHOUU"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-CyrusZHOUU-black?style=flat-square&logo=github"></a>
 
-<a href="mailto:cyrus.zhou@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-cyrus.zhou@example.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:zhou.xs@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-zhou.xs@outlook.com-blue?style=flat-square&logo=microsoft-outlook"></a>
 
 </p>
 
@@ -77,4 +70,4 @@
 
 ---
 
-> "Code is poetry, programming is art." - Cyrus Zhou 
+> "Life has no end." - Cyrus Zhou 

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <style>
+    .brain {
+      fill: #6366f1;
+      stroke: #4f46e5;
+      stroke-width: 2;
+    }
+    .connection {
+      fill: none;
+      stroke: #4f46e5;
+      stroke-width: 2;
+      stroke-dasharray: 5;
+      animation: dash 5s linear infinite;
+    }
+    .node {
+      fill: #f472b6;
+      animation: pulse 2s infinite;
+    }
+    .glow {
+      filter: url(#glow);
+    }
+    @keyframes dash {
+      to {
+        stroke-dashoffset: 100;
+      }
+    }
+    @keyframes pulse {
+      0% {
+        r: 5;
+        opacity: 0.8;
+      }
+      50% {
+        r: 7;
+        opacity: 1;
+      }
+      100% {
+        r: 5;
+        opacity: 0.8;
+      }
+    }
+  </style>
+  
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  
+  <!-- Brain outline -->
+  <path class="brain glow" d="M150,60 C220,60 250,100 250,150 C250,200 220,240 150,240 C80,240 50,200 50,150 C50,100 80,60 150,60 Z
+                           M150,60 C120,60 100,90 100,120 C100,150 120,180 150,180 C180,180 200,150 200,120 C200,90 180,60 150,60 Z
+                           M100,120 C80,120 70,135 70,150 C70,165 80,180 100,180
+                           M200,120 C220,120 230,135 230,150 C230,165 220,180 200,180" />
+  
+  <!-- Neural connections -->
+  <path class="connection" d="M80,100 C100,80 120,70 150,70 C180,70 200,80 220,100" />
+  <path class="connection" d="M80,200 C100,220 120,230 150,230 C180,230 200,220 220,200" />
+  <path class="connection" d="M70,150 C90,150 110,150 130,150" />
+  <path class="connection" d="M170,150 C190,150 210,150 230,150" />
+  <path class="connection" d="M150,70 C150,90 150,110 150,130" />
+  <path class="connection" d="M150,170 C150,190 150,210 150,230" />
+  
+  <!-- Neural nodes -->
+  <circle class="node glow" cx="80" cy="100" r="5" />
+  <circle class="node glow" cx="150" cy="70" r="5" />
+  <circle class="node glow" cx="220" cy="100" r="5" />
+  <circle class="node glow" cx="80" cy="200" r="5" />
+  <circle class="node glow" cx="150" cy="230" r="5" />
+  <circle class="node glow" cx="220" cy="200" r="5" />
+  <circle class="node glow" cx="70" cy="150" r="5" />
+  <circle class="node glow" cx="230" cy="150" r="5" />
+  <circle class="node glow" cx="150" cy="130" r="5" />
+  <circle class="node glow" cx="150" cy="170" r="5" />
+  <circle class="node glow" cx="150" cy="150" r="8" />
+</svg> 
