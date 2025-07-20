@@ -1,6 +1,8 @@
 # Hi there 👋
 ## I'm Cyrus Zhou
 
+<img align='right' src="https://raw.githubusercontent.com/CyrusZHOUU/CyrusZHOUU/main/assets/ai-brain.svg" width="230" alt="AI Brain Animation">
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Engineering student with a passion for technology and scientific innovation
@@ -11,37 +13,54 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CyrusZHOUU&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrusZHOUU&layout=compact&langs_count=6&card_width=240" />
-    </td>
-  </tr>
-</table>
+<!-- GitHub 统计 -->
+## 📊 GitHub Stats
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CyrusZHOUU&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrusZHOUU&layout=compact&langs_count=6&card_width=280&hide_border=true" />
+</div>
+
+<!-- GitHub 连击统计 -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyrusZHOUU&hide_border=true" />
+</div>
+
+<div>&nbsp;</div>
 
 ## 🛠️ Tech Stack
 
+<table><tr><td valign="top" width="33%">
+
 ### Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+</div>
+
+</td><td valign="top" width="33%">
 
 ### AI & ML
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFBA01?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-32CD32?style=flat-square&logo=chainlink&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/numpy-original.svg" alt="NumPy" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="50" />
+</div>
 
-### Tools & Environment  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+</td><td valign="top" width="33%">
+
+### Tools & Environment
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="50" />
+</div>
+
+</td></tr></table>
 
 ## 🌱 To Learn
 
@@ -51,14 +70,30 @@
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-0EA5E9?style=flat-square&logo=openai&logoColor=white)
 ![Fine-tuning](https://img.shields.io/badge/-Fine--tuning-8B5CF6?style=flat-square&logo=openai&logoColor=white)
 
+<div>&nbsp;</div>
+
+<!-- GitHub 奖杯 -->
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CyrusZHOUU&theme=flat&no-frame=true&margin-w=15" />
+</div>
+
+<div>&nbsp;</div>
+
+<!-- 贡献图表 -->
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyrusZHOUU&theme=minimal&hide_border=true" />
+</div>
+
 <hr>
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://github.com/CyrusZHOUU"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-CyrusZHOUU-black?style=flat-square&logo=github"></a>
+<a href="https://github.com/CyrusZHOUU"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-CyrusZHOUU-black?style=flat-square&logo=github" height="40"></a>
 &nbsp;&nbsp;
-<a href="mailto:zhou.xs@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-zhou.xs@outlook.com-blue?style=flat-square&logo=microsoft-outlook"></a>
+<a href="mailto:zhou.xs@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-zhou.xs@outlook.com-blue?style=flat-square&logo=microsoft-outlook" height="40"></a>
 </p>
 
 <div align="center">
