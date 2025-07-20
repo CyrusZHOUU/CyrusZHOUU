@@ -20,7 +20,7 @@
 
 <!-- GitHub 统计 -->
 ## 📊 GitHub Stats
-<div align="center">
+<div align="center" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 16px 0;">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CyrusZHOUU&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=CyrusZHOUU" />
 </div>
@@ -29,6 +29,7 @@
 
 ## 🛠️ Tech Stack & Learning Path
 
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 16px 0;">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -68,6 +69,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 <div>&nbsp;</div>
 
