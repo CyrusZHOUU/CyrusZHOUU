@@ -17,7 +17,7 @@
       <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CyrusZHOUU&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
     </td>
     <td>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrusZHOUU&layout=compact&langs_count=6&card_width=280" />
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrusZHOUU&layout=compact&langs_count=6&card_width=240" />
     </td>
   </tr>
 </table>
