@@ -86,7 +86,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CyrusZHOUU/CyrusZHOUU/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/CyrusZHOUU/CyrusZHOUU/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <hr>
