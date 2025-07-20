@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <div align="center">
   <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=AI+Engineer+%7C+LLM+Researcher;Building+the+Future+with+AI;&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=AI+Engineer+%7C+LLM+Researcher;Building+the+Future+with+AI;&center=true&size=27&color=000000" />
   </div>
 </div>
 
@@ -27,34 +27,47 @@
 
 <div>&nbsp;</div>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Learning Path
 
-### Languages & Frameworks
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ Current Tech Stack
+
+#### Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-### AI & ML
+#### AI & ML
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFBA01?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/-LangChain-32CD32?style=flat-square&logo=chainlink&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### Tools & Environment  
+#### Tools & Environment  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-## 🌱 To Learn
+</td>
+<td width="50%" valign="top">
 
-### Advanced AI & LLM Development
+### 🌱 Currently Learning
+
+#### Advanced AI & LLM Development
 ![RAG](https://img.shields.io/badge/-RAG-9146FF?style=flat-square&logo=openai&logoColor=white)
 ![Multi-Agent](https://img.shields.io/badge/-Multi--Agent-FF5A5F?style=flat-square&logo=googleassistant&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-0EA5E9?style=flat-square&logo=openai&logoColor=white)
 ![Fine-tuning](https://img.shields.io/badge/-Fine--tuning-8B5CF6?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <div>&nbsp;</div>
 
@@ -70,6 +83,10 @@
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyrusZHOUU&theme=minimal&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CyrusZHOUU/CyrusZHOUU/output/github-contribution-grid-snake.svg" />
 </div>
 
 <hr>
