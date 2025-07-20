@@ -1,8 +1,6 @@
 # Hi there 👋
 ## I'm Cyrus Zhou
 
-<img align='right' src="https://raw.githubusercontent.com/CyrusZHOUU/CyrusZHOUU/main/assets/ai-brain.svg" width="230" alt="AI Brain Animation">
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Engineering student with a passion for technology and scientific innovation
@@ -19,7 +17,7 @@
       <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CyrusZHOUU&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
     </td>
     <td>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrusZHOUU&layout=compact&langs_count=6" />
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrusZHOUU&layout=compact&langs_count=6&card_width=320" />
     </td>
   </tr>
 </table>
