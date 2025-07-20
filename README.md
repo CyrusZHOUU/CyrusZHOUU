@@ -85,10 +85,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyrusZHOUU&theme=minimal&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CyrusZHOUU/CyrusZHOUU/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 <hr>
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
